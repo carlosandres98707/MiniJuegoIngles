@@ -1,0 +1,10 @@
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\bin\Debug\LearnEnglish.exe.config
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\bin\Debug\LearnEnglish.exe
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\bin\Debug\LearnEnglish.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.Inicioform.resources
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.exe
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.pdb
+C:\Users\carlo\OneDrive\Documentos\Proyectos Visual Studio\LearnEnglish\obj\Debug\LearnEnglish.Pasado.resources
